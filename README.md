@@ -1,6 +1,6 @@
 - My name is Nathaniel Lentz. I am a CS student at Williams College. I am a member of the cross-country and track and field teams there,
   where I mostly run middle-distance. I love to code and solve complex problems in a simple matter. I am interested in machine learning, artificial 
-  intellegence, and casual inference. I have interned in finance as well as agricultural techology, doing data science and full stack, respectively.
+  intellegence, and causal inference. I have interned in finance as well as agricultural techology, doing data science and full stack, respectively.
  
 - My email is npl1@williams.edu if you want to reach me. 
 <!---
